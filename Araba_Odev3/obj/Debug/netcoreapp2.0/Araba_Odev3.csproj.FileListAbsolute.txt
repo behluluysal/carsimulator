@@ -1,0 +1,11 @@
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\bin\Debug\netcoreapp2.0\Araba_Odev3.deps.json
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\bin\Debug\netcoreapp2.0\Araba_Odev3.runtimeconfig.json
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\bin\Debug\netcoreapp2.0\Araba_Odev3.runtimeconfig.dev.json
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\bin\Debug\netcoreapp2.0\Araba_Odev3.dll
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\bin\Debug\netcoreapp2.0\Araba_Odev3.pdb
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\obj\Debug\netcoreapp2.0\Araba_Odev3.csprojResolveAssemblyReference.cache
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\obj\Debug\netcoreapp2.0\Araba_Odev3.csproj.CoreCompileInputs.cache
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\obj\Debug\netcoreapp2.0\Araba_Odev3.AssemblyInfoInputs.cache
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\obj\Debug\netcoreapp2.0\Araba_Odev3.AssemblyInfo.cs
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\obj\Debug\netcoreapp2.0\Araba_Odev3.dll
+C:\Users\sbuys\Desktop\Visual Studio\Araba_Odev3\Araba_Odev3\obj\Debug\netcoreapp2.0\Araba_Odev3.pdb
